@@ -31,7 +31,7 @@ CREATE TABLE readers (
 );
 
 -- Таблица библиотеки
-CREATE TABLE library (
+CREATE TABLE library_queue (
   queue_id serial PRIMARY KEY,
   book_id int NOT NULL,
   reader_id int NOT NULL,
