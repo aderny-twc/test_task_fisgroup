@@ -67,3 +67,6 @@
 
 [Пример создания таблицы PostgreSQL](./addition/create_table.sql)
 
+
+
+​		Следующее задание [Задание 2](./tasks/task_2.md)
